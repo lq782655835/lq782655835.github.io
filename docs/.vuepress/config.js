@@ -5,6 +5,7 @@ module.exports = {
     ['meta', { 'http-equiv': 'pragma', content: 'no-cache' }],
     ['meta', { 'http-equiv': 'expires', content: '0' }],
   ],
+  base: "/compressed/",
   dest: "compressed",
   themeConfig: {
     sidebar: [
