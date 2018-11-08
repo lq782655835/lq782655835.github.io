@@ -1,0 +1,16 @@
+{
+  "name": "lq782655835.github.io",
+  "version": "1.0.0",
+  "description": "personal blog",
+  "repository": "https://github.com/lq782655835/lq782655835.github.io.git",
+  "author": "782655835@qq.com",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^0.14.4"
+  }
+}
