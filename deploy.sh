@@ -18,7 +18,7 @@ echo 'local commited'
 git push -f https://github.com/lq782655835/lq782655835.github.io.git develop
 echo 'remote commited'
 
-git push origin `git subtree split --prefix site master`:master --force
+git push origin `git subtree split --prefix site develop`:master --force
 # git subtree push --prefix site origin gh-pages
 echo 'build in gh-pages'
 # cd -
