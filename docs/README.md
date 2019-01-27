@@ -1,22 +1,7 @@
-# Ai-fed-team-standard
-团队规范对于团队合作非常重要，大大减少项目之间的沟通，以及寻求最适合AI业务的开发方法。有些规范能让lint做强制审核的，尽量用lint；有些需要约定俗成的，则记录在思维导图下。
-
-## 大纲
-
-
-## 后续计划
-
-在完成AI前端规范基础上，完成以下部门工具
-
-1. 组件库
-   * 轻量级UI组件库
-   * 组件库官网
-2. 脚手架
-   * 后台管理系统脚手架
-   * 官网脚手架
-   * electron脚手架
-   * 小程序脚手架
-3. webpack插件
-   * 优化打包速度
-
-## 团队贡献
+---
+home: true
+heroImage: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3UJrWOYS_v_r7MoPsAOlHZkrU8yiynHJnLoIIGW_osHxNbLbw
+description: Welcome to personal site
+actionText: 开始 →
+footer: MIT Licensed | Copyright © 2018-present springleo
+---
